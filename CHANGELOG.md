@@ -1,3 +1,9 @@
+## Unreleased
+
+### Fix
+
+- **C-4**: updat ci.yml
+
 ## 0.2.2 (2024-06-29)
 
 ### Fix
