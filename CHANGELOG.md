@@ -2,6 +2,12 @@
 
 ### Fix
 
+- **L-6**: update ci.yml, mkdocs.yml
+
+## 0.2.4 (2024-06-29)
+
+### Fix
+
 - **L-5**: update ci.yml
 
 ## 0.2.3 (2024-06-29)
