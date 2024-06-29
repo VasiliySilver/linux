@@ -1,0 +1,22 @@
+[tool.poetry]
+name = "linux"
+version = "0.2.0"
+description = ""
+authors = ["VasiliySilver <s555133@mail.ru>"]
+readme = "README.md"
+
+[tool.poetry.dependencies]
+python = "^3.12"
+mkdocs-material = "^9.5.27"
+commitizen = "^3.27.0"
+
+
+
+[tool.commitizen]
+name = "cz_conventional_commits"
+tag_format = "$version"
+version_scheme = "pep440"
+version_provider = "poetry"
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
