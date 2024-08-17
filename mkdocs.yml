@@ -1,6 +1,9 @@
 site_name: Linux
 docs_dir: 'docs'
 site_dir: 'site'
+nav:
+  - Home: 'index.md'   # Указываем, какой файл будет главной страницей
+  - Page 2: 'page2.md' # Добавляем другие страницы
 theme:
   name: material
   features:

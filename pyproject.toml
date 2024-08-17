@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "linux"
-version = "0.2.5"
+version = "0.2.6"
 description = ""
 authors = ["VasiliySilver <s555133@mail.ru>"]
 readme = "README.md"
@@ -9,6 +9,7 @@ readme = "README.md"
 python = "^3.12"
 mkdocs-material = "^9.5.27"
 commitizen = "^3.27.0"
+mkdocs = "^1.6.0"
 
 
 

@@ -1,5 +1,15 @@
 ## Unreleased
 
+### Feat
+
+- **L-7**: update documentation, fix deploy on github
+
+### Fix
+
+- **0.2.6**: set version to 0.2.6
+
+## 0.2.5 (2024-06-29)
+
 ### Fix
 
 - **L-6**: update ci.yml, mkdocs.yml
