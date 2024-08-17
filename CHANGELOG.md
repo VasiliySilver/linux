@@ -1,5 +1,7 @@
 ## Unreleased
 
+## 0.2.6 (2024-08-17)
+
 ### Feat
 
 - **L-7**: update documentation, fix deploy on github
