@@ -1,6 +1,6 @@
 [tool.poetry]
 name = "linux"
-version = "0.2.7"
+version = "0.2.8"
 description = ""
 authors = ["VasiliySilver <s555133@mail.ru>"]
 readme = "README.md"
